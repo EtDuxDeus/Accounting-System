@@ -1,0 +1,10 @@
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Debug\Accounting system.exe.config
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Debug\Accounting system.exe
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Debug\Accounting system.pdb
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.csprojAssemblyReference.cache
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting_system.Form1.resources
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting_system.Properties.Resources.resources
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.csproj.GenerateResource.cache
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.csproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.exe
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.pdb
