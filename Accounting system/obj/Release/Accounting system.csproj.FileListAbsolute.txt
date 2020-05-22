@@ -1,0 +1,15 @@
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Release\Accounting system.exe.config
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Release\Accounting system.exe
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Release\Accounting system.pdb
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Release\Microsoft.Data.OData.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting system.csprojAssemblyReference.cache
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting_system.Form1.resources
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting_system.Properties.Resources.resources
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting system.csproj.GenerateResource.cache
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting system.csproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting system.csproj.CopyComplete
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting system.exe
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Release\Accounting system.pdb

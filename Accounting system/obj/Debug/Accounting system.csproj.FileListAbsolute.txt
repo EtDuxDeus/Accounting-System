@@ -8,3 +8,8 @@ C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accoun
 C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.csproj.CoreCompileInputs.cache
 C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.exe
 C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.pdb
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\miner\source\repos\Accounting system\Accounting system\obj\Debug\Accounting system.csproj.CopyComplete
