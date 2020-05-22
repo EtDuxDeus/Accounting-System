@@ -26,7 +26,7 @@ namespace Accounting_system
 
         public CutterForWood()
         {
-            WorkItem = "Фреза для роботи з деревом";
+            workItem = "Фреза для роботи з деревом";
             Weight = 10;
             Power = 1200;
             Efficienty = 80;
@@ -46,7 +46,7 @@ namespace Accounting_system
     {
         public WoodCutChain()
         {
-            WorkItem = "Ланцюг для роботи з деревом";
+            workItem = "Ланцюг для роботи з деревом";
             Weight = 0.75;
             Power = 2400;
             Efficienty = 30;
@@ -64,7 +64,7 @@ namespace Accounting_system
     {
         public MetalSheetForWood()
         {
-            WorkItem = "Металеве полотно для роботи з деревом";
+            workItem = "Металеве полотно для роботи з деревом";
             Weight = 1;
             Power = 3000;
             Efficienty = 60;
@@ -82,7 +82,7 @@ namespace Accounting_system
     {
         public LaserForWood()
         {
-            WorkItem = "Лазер для роботи з деревом";
+            workItem = "Лазер для роботи з деревом";
             Weight = 8;
             Power = 600;
             Efficienty = 75;

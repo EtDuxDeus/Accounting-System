@@ -22,7 +22,7 @@ namespace Accounting_system
     {
         public DiamondDiskGrinder()
         {
-            WorkItem = "Диск з діамантовою крихтою для роботи з каменем";
+            workItem = "Диск з діамантовою крихтою для роботи з каменем";
             Power = 3000;
             Weight = 5;
             Efficienty = 65;
@@ -41,7 +41,7 @@ namespace Accounting_system
     {
         public JetOfWaterForStone()
         {
-            WorkItem = "Струмінь води під тиском для робооти з каменем";
+           workItem = "Струмінь води під тиском для робооти з каменем";
             Power = 600;
             Weight = 30;
             Efficienty = 90;
@@ -59,7 +59,7 @@ namespace Accounting_system
     {
         public LaserForStone()
         {
-            WorkItem = "Лазер для роботи з каменем";
+            workItem = "Лазер для роботи з каменем";
             Power = 6000;
             Efficienty = 20;
             Weight = 500;

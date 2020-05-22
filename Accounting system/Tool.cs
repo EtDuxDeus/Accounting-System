@@ -11,7 +11,7 @@ namespace Accounting_system
     class Tool//базовий класс інструменту
     {
         public string MaterialType;
-        public string WorkItem;
+        private string WorkItem { get; set; }
         public double Power;
         public bool Recoverability;
         public double Efficienty;
@@ -24,6 +24,13 @@ namespace Accounting_system
             string description = str.ReadToEnd();
             return description;
         }
+
+        public string workItem
+        {
+            get { return WorkItem; }
+            set { this.WorkItem = value; }
+        }
+
     }
 
     

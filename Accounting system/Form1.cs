@@ -71,7 +71,7 @@ namespace Accounting_system
                 tools.Add(t);
                 foreach (Tool i in tools)
                 {
-                    listBox1.Items.Add(i.WorkItem);
+                    listBox1.Items.Add(i.workItem);
                 }
         }
  
@@ -227,7 +227,7 @@ namespace Accounting_system
                     listBox1.Items.Clear();
                     foreach (Tool i in tools)
                     {
-                        listBox1.Items.Add(i.WorkItem);
+                        listBox1.Items.Add(i.workItem);
                     }
                 }
             }

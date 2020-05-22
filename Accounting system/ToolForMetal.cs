@@ -21,7 +21,7 @@ namespace Accounting_system
     {
         public CutterForMetal()
         {
-            WorkItem = "Фреза для роботи з металом";
+            workItem = "Фреза для роботи з металом";
             Weight = 15;
             Power = 1800;
             Efficienty = 40;
@@ -39,7 +39,7 @@ namespace Accounting_system
     {
         public JetOfPlasmaForMetal()
         {
-            WorkItem = "Струя плазми для роботи з металом";
+            workItem = "Струя плазми для роботи з металом";
             Weight = 25;
             Power = 5600;
             Efficienty = 80;
@@ -57,7 +57,7 @@ namespace Accounting_system
     {
         public CircularSawForMetal()
         {
-            WorkItem = "Циркулярна пила для роботи з металом";
+            workItem = "Циркулярна пила для роботи з металом";
             Weight = 20;
             Power = 2000;
             Efficienty = 50;
@@ -76,7 +76,7 @@ namespace Accounting_system
     {
         public GasCutterForMetal()
         {
-            WorkItem = "Газовий різак для роботи з металом";
+            workItem = "Газовий різак для роботи з металом";
             Weight = 1.5;
             Power = 800;
             Efficienty = 15;

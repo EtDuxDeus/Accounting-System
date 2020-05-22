@@ -22,7 +22,7 @@ namespace Accounting_system
     {
         public MetalDiskForPaper()
         {
-            WorkItem = "Металевий диск для роботи з папером";
+            workItem = "Металевий диск для роботи з папером";
             Weight = 2;
             Power = 200;
             Efficienty = 30;
@@ -40,7 +40,7 @@ namespace Accounting_system
     {
         public StationeryKnifeForPaper()
         {
-            WorkItem = "Лезо канцелярського ножа";
+            workItem = "Лезо канцелярського ножа";
             Weight = 0.2;
             Power = 0;
             Efficienty = 100;
