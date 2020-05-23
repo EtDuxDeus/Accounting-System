@@ -110,6 +110,7 @@
             this.textBox1.Location = new System.Drawing.Point(0, 225);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(626, 188);
             this.textBox1.TabIndex = 2;
             // 
@@ -179,6 +180,7 @@
             // 
             this.textBox2.Location = new System.Drawing.Point(169, 199);
             this.textBox2.Name = "textBox2";
+            this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(76, 20);
             this.textBox2.TabIndex = 9;
             // 
@@ -186,6 +188,7 @@
             // 
             this.textBox3.Location = new System.Drawing.Point(251, 199);
             this.textBox3.Name = "textBox3";
+            this.textBox3.ReadOnly = true;
             this.textBox3.Size = new System.Drawing.Size(76, 20);
             this.textBox3.TabIndex = 10;
             // 
@@ -193,6 +196,7 @@
             // 
             this.textBox4.Location = new System.Drawing.Point(333, 199);
             this.textBox4.Name = "textBox4";
+            this.textBox4.ReadOnly = true;
             this.textBox4.Size = new System.Drawing.Size(76, 20);
             this.textBox4.TabIndex = 11;
             // 
@@ -200,6 +204,7 @@
             // 
             this.textBox5.Location = new System.Drawing.Point(415, 199);
             this.textBox5.Name = "textBox5";
+            this.textBox5.ReadOnly = true;
             this.textBox5.Size = new System.Drawing.Size(94, 20);
             this.textBox5.TabIndex = 12;
             // 
@@ -207,6 +212,7 @@
             // 
             this.textBox6.Location = new System.Drawing.Point(515, 199);
             this.textBox6.Name = "textBox6";
+            this.textBox6.ReadOnly = true;
             this.textBox6.Size = new System.Drawing.Size(107, 20);
             this.textBox6.TabIndex = 12;
             // 
@@ -429,7 +435,7 @@
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Form1";
-            this.Text = " ";
+            this.Text = " ASoCT";
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel3.ResumeLayout(false);

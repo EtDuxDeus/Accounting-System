@@ -10,12 +10,12 @@ namespace Accounting_system
     [Serializable]
     class Tool//базовий класс інструменту
     {
-        public string MaterialType;
-        private string WorkItem { get; set; }
-        public double Power;
-        public bool Recoverability;
-        public double Efficienty;
-        public double Weight;
+        private string materialType;
+        private string WorkItem;
+        private double power;
+        private bool recoverability;
+        private double efficienty;
+        private double weight;
         
 
         public virtual string ShowDescription()
@@ -30,14 +30,31 @@ namespace Accounting_system
             get { return WorkItem; }
             set { this.WorkItem = value; }
         }
+        public string MaterialType
+        {
+            get { return materialType; }
+            set { this.materialType = value; }
+        }
+        public double Power
+        {
+            get { return power; }
+            set { this.power = value; }
+        }
+        public bool Recoverability
+        {
+            get { return recoverability; }
+            set { this.recoverability = value; }
+        }
+        public double Efficienty
+        {
+            get { return efficienty; }
+            set { this.efficienty = value; }
+        }
+        public double Weight
+        {
+            get { return weight; }
+            set { this.weight = value; }
+        }
 
-    }
-
-    
-    
-   
-
-    
-
-   
+    }  
 }

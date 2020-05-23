@@ -10,13 +10,10 @@ namespace Accounting_system
     [Serializable]
     class ToolForWood : Tool
     {
-        //підкласс для инструментів по дереву
-        
-
+ 
        public ToolForWood()
        {
                 MaterialType = "Дерево";
-
        }
           
     }
